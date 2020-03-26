@@ -8,7 +8,7 @@ adding a line for re-basing example, then more changes from myfeature branch.
 Sample website with plenty of files for demos
 
 ## How to contribute
-bla bla
+be smart
 
 
 ## Copyright
